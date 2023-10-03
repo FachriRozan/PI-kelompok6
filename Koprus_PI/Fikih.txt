@@ -1,0 +1,84 @@
+URL: https://id.wikipedia.org/wiki/Fikih
+Judul: Fikih - Wikipedia bahasa Indonesia, ensiklopedia bebas
+
+
+
+
+
+Artikel ini memuat huruf Arab. Tanpa bantuan render yang baik, anda mungkin akan melihat  tanda tanya, kotak-kotak, atau simbol lainnya.
+
+Fikih (bahasa Arab: فقه, translit. fiqh [fɪqh][1]) adalah yurisprudensi Islam.[2] Fikih dimaknai sebagai pemahaman manusia mengenai praktik-praktik ibadah berdasarkan Syariat,[3] yang disebutkan dalam al-Qur'an dan Sunnah (praktik yang dicontohkan oleh nabi Islam Muhammad beserta sahabatnya). Fikih menjadi peletak dasar syariat melalui interpretasi (ijtihad) al-Qur'an dan Sunnah oleh para ulama[3] dan diimplementasikan menjadi sebuah fatwa ulama. Oleh karena itu, syariah dianggap tidak berubah dan sempurna oleh umat Islam, sedangkan fikih dapat diubah sewaktu-waktu. Fikih berkaitan dengan ketaatan ritual, moral, dan norma-norma sosial dalam Islam serta sistem politik. Di era modern, ada empat mazhab dalam Sunni, ditambah dua atau tiga mazhab dalam Syiah. Orang yang menguasai ilmu fikih disebut faqīh (jamaknya fuqaha).[4]
+Secara umum, fikih bermakna pengetahuan akan hukum-hukum Islam berdasarkan sumber-sumbernya. Menurunkan sumber hukum Islam memerlukan metode ijtihad yang dilakukan oleh seorang mujtahid untuk mendapatkan pemahaman yang lebih rinci berkaitan dengan hukum-hukum Islam. Seorang faqīh harus melihat dan memahami secara mendalam segala permasalahan dan tidak berpuas diri dengan makna tersurat saja, dan orang yang hanya sebatas memahami hukum tanpa mengetahui intisari hukum tersebut tidak memenuhi syarat sebagai faqīh.[2]
+Studi fikih umumnya dibagi menjadi uṣūl al-fiqh (metode interpretasi dan analisis sumber hukum fikih); serta furūʿ al-fiqh (cabang-cabang fikih dengan landasan tersebut).[5][6] Furūʿ al-fiqh adalah buah dari uṣūl al-fiqh. Hukm (bentuk jamaknya aḥkām) adalah keputusan yang dibuat untuk kasus tertentu.
+Sebagian ahli fikih membagi 4 pembahasan utama, yakni; rubu' ibadat, rubu' mu'amalat, ru'bu munakahat, dan ru'bu jinayat. Namun, sebagian ahli fikih lainnya membagi pembahasan fikih pada dua aspek saja, yaitu ru'bu ibadat dan ru'bu mu'amalat.[7]
+
+
+Pengertian[sunting | sunting sumber]
+
+Pengertian bahasa[sunting | sunting sumber]
+Fiqh فقه secara bahasa artinya pemahaman yang benar tentang apa yang diharapkan.[8] Hadis berikut menggunakan kata fikih sesuai makna bahasanya.
+
+“Barangsiapa yang Allah kehendaki menjadi baik maka Allah faqihkan dia terhadap agama. Aku hanyalah yang membagi-bagikan sedang Allah yang memberi. Dan senantiasa umat ini akan tegak di atas perintah Allah, mereka tidak akan celaka karena adanya orang-orang yang menyelisihi mereka hingga datang keputusan Allah.”[9]
+Fiqh adalah mashdar dari bab فقِهَ يفقَهُ faqiha - yafqahu, yang berarti "paham". فقُهَ faquha (dengan qaf berharakat dhammah) artinya fiqh menjadi sifat alaminya. فقَهَ faqaha (dengan fathah) artinya lebih dulu paham dari yang lain.[10]
+
+Pengertian istilah[sunting | sunting sumber]
+Secara istilah, fikih artinya معرفة بالأحكام الشرعية العملية بأدلتها التفصيلية “pengetahuan tentang hukum-hukum syariat praktis berdasarkan sebuah dalil-dalil secara rincinya.” Yang dimaksud معرفة “pengetahuan” mencakup ilmu pasti dan dugaan. Hukum-hukum syariat ada yang diketahui secara pasti dari dalil yang meyakinkan dan ada yang diketahui secara dugaan. Masalah-masalah ijtihad yang menjadi bahan perbedaan pendapat di kalangan ulama adalah masalah dugaan karena jika diketahui secara yakin, maka pasti tidak ada perbedaan pendapat.[11]
+Yang dimaksud الأحكام الشرعية “hukum-hukum syariat” adalah seperti wajib dan haram. Fikih tidak membahas hukum-hukum logika, seperti "semua itu lebih besar dari sebagian," maupun hukum-hukum alam, seperti turunnya embun di akhir malam yang cerah musim panas.[12]
+Yang dimaksud dengan العملية “(hukum) praktis,” fikih tidak membahas permasalahan keyakinan. Ajaran tentang keyakinan dibahas dalam ilmu aqidah. Para ulama menyebutnya الفقه الأكبر al-fiqh al-akbar “Fikih agung.” Oleh karena itu, hadis Nabi “Barangsiapa yang Allah kehendaki menjadi baik maka Allah faqihkan dia terhadap agama” mencakup ilmu fikih dan ilmu aqidah.[13]
+Yang dimaksud dengan بأدلتها التفصيلية “berdasarkan dalil-dalil rincinya” adalah dalil yang langsung berhubungan dengan suatu praktek. Misal, dalil firman Allah,  إِذَا قُمْتُمْ إِلَى الصَّلاةِ فَاغْسِلُوْا  “... apabila kamu hendak mengerjakan salat, maka basuhlah ...”[Qur'an Al-Ma’idah:6] berhubungan dengan disyaratkannya wudu sebelum mendirikan salat. Dengan begitu, dalil yang dibawakan langsung berhubungan dengan masalah praktek tertentu. Berbeda dengan, misal, dalil dari hadis: من عمل عملا ليس عليه أمرنا فهو رد “Barangsiapa mengamalkan suatu perkara yang tidak kami perintahkan, maka ia tertolak,”[14] ini tidak termasuk fikih karena berhubungan dengan masalah umum yang menjadi satu di antara kaidah-kaidah fikih.[15]
+
+Fikih dan Syariah[sunting | sunting sumber]
+Syariah merupakan hukum-hukum yang terdapat dalam Al-Quran dan Hadits. Fikih merupakan hasil pemahaman dan interpretasi para ahli atas peristiwa yang hukumnya tidak ditemukan dalam Al Quran dan Hadits.[16] Syariah lahir terlebih dahulu dari fikih. Syariah ditentukan oleh Allah SWT, sedangkan fikih adalah hasil pemikiran manusia terhadap syariah. Syariah adalah landasan fikih, sedangkan fikih adalah pemahaman tentang syariah. Dalam literatur hukum Islam berbahasa Inggris, Syariah Islam disebut Law, sedangkan fikih Islam disebut Islamic jurispudence.
+
+Sejarah[sunting | sunting sumber]
+Masa Nabi Muhammad saw.[sunting | sunting sumber]
+Masa Nabi Muhammad saw. juga disebut sebagai periode risalah, karena pada masa-masa ini agama Islam baru didakwahkan. Pada periode ini, permasalahan fikih diserahkan sepenuhnya kepada Nabi Muhammad saw.. Sumber hukum Islam saat itu adalah wahyu dari Allah serta perkataan dan perilaku Nabi. Periode Risalah ini dapat dibagi menjadi dua bagian, yaitu periode Makkah dan periode Madinah. Periode Makkah lebih tertuju pada permasalah akidah, karena disinilah agama Islam pertama kali disebarkan. Ayat-ayat yang diwahyukan lebih banyak pada masalah ketauhidan dan keimanan.
+Periode Madinah dimulai sejak Nabi Muhammad saw. hijrah ke Madinah. Setelah hijrah, barulah ayat-ayat yang mewahyukan perintah untuk melakukan puasa, zakat dan haji diturunkan secara bertahap. Ayat-ayat ini diwahyukan ketika muncul sebuah permasalahan, seperti kasus seorang wanita yang diceraikan secara sepihak oleh suaminya, dan kemudian turun wahyu dalam surah Al-Mujadilah. Pada periode Madinah ini, ijtihad mulai diterapkan.[17]
+Pembentukan fikih pada masa Nabi Muhammad saw. menekankan pada tiga aspek utama yang terkait dengan tugas kenabian beliau. Aspek-aspek tersebut antara lain:
+
+Memperbaiki kepercayaan dan agama masyarakat di zaman jahiliyah. Dalam misi ini, Nabi Muhammad saw. kemudian memperkenalkan Islam sebagai agama pembaharu, dan memperbaiki sistem dengan menghidupkan tauhid.[18]
+Memperbaiki akhlak masyarakat jahiliyah. Sebelum kedatangan Nabi Muhammad saw., masyarakat Arab jahiliyah memiliki akhlak yang buruk, sehingga tugas Nabi Muhammad saw. adalah untuk memperbaiki akhlak dan moral masyarakat sesuai dengan nilai-nilai Islam.[18]
+Menetapkan aturan-aturan hidup sesuai dengan nilai dan prinsip Islam. Sebelum kedatangan Nabi Muhammad saw., masyarakat Arab jahiliyah penuh ketidakadilan dan kemerosotan, maka tugas inilah yang kemudian membuat Nabi Muhammad saw. merumuskan hukum-hukum di masyarakat demi terciptanya masyarakat madani. Di sini pula Nabi Muhammad saw. mulai menegakkan dan membina fikih Islami.[18]
+Pada masa ini, Nabi Muhammad saw. menerapkan dan mengembangkan fikih Islam secara perlahan-lahan kepada masyarakat Arab. Beliau menerapkan fikih berdasarkan kejadian-kejadian atau perkara-perkara dengan memperhitungkan sebab dan akibatnya. Saat itu apabila masyarakat sedang menghadapi suatu perkara yang tidak ditemukan jalan keluarnya, maka mereka bertanya kepada Nabi Muhammad saw.. Kemudian Nabi Muhammad saw. memberikan solusinya berdasarkan Al-Qur'an dan Hadis.[18]
+Dalam periode ini, para sahabat juga terkadang sebelum bertanya kepada Nabi Muhammad saw., mereka berijtihad. Kemudian hasil ijtihad itu disampaikan kepada Nabi Muhammad saw. terkait ushul fikih-nya. Jika hasil ijtihad para sahabat disetujui oleh Nabi Muhammad saw. maka menjadi kebenaran dan jika ditolak maka belau akan menentukan hukum terkait perkara tersebut.[19]
+
+Masa Khulafaur Rasyidin[sunting | sunting sumber]
+Setelah wafatnya Nabi Muhammad, pemegang otoritas fikih adalah para sahabat, yakni Khulafaur Rashidin. Para sahabat berpegang teguh pada dua sumber utama, yakni Ajâtul Ahkâm yang bersumber dari Al-Qur'an dan Ahâdietsul Ahkâm yang berasal dari Hadis.[20]
+Pada masa itu para sahabat mengumpulkan hadis-hadis Nabi Muhammad di berbagai pelosok negeri dari para perawi. Hal ini bertujuan untuk mendapatkan hadis-hadis yang shohih. Para sahabat juga sangat berhati-hati dalam mengumpulkan hadis-hadis agar tidak ditemukan para pemalsu hadis. Abu Bakar Ash-Shiddiq dan Umar bin Khattab bahkan benar-benar menyaring para perawi hadis, caranya adalah para perawi yang akan menyampaikan hadis harus bisa menghadirkan sedikitnya dua orang saksi yang dapat membenarkan riwayatnya. Jika para saksi membenarkan riwayat hadis dari perawi, maka riwayat perawi tersebut diterima. Namun, jika pewari tidak mampu menghadirkan saksi, maka riwayatnya ditolak.[20]
+Pada periode ini, para faqih mulai berbenturan dengan adat, budaya dan tradisi yang terdapat pada masyarakat Islam kala itu. Ketika menemukan sebuah masalah, para faqih berusaha mencari jawabannya dari Al-Qur'an. Jika di Al-Qur'an tidak diketemukan dalil yang jelas, maka hadis menjadi sumber kedua. Dan jika tidak ada landasan yang jelas juga di Hadis maka para faqih ini melakukan ijtihad.[21]
+Menurut penelitian Ibnu Qayyim, tidak kurang dari 130 orang faqih dari pria dan wanita memberikan fatwa, yang merupakan pendapat faqih tentang hukum.[22]
+
+Masa Awal Pertumbuhan Fikih[sunting | sunting sumber]
+Masa ini berlangsung sejak berkuasanya Mu'awiyah bin Abi Sufyan sampai sekitar abad ke-2 Hijriah. Rujukan dalam menghadapi suatu permasalahan masih tetap sama yaitu dengan Al-Qur'an, Sunnah dan Ijtihad para faqih. Tapi, proses musyawarah para faqih yang menghasilkan ijtihad ini sering kali terkendala disebabkan oleh tersebar luasnya para ulama di wilayah-wilayah yang direbut oleh Kekhalifahan Islam.
+Mulailah muncul perpecahan antara umat Islam menjadi tiga golongan yaitu Sunni, Syiah, dan Khawarij. Perpecahan ini berpengaruh besar pada ilmu fikih, karena akan muncul banyak sekali pandangan-pandangan yang berbeda dari setiap faqih dari golongan tersebut. Masa ini juga diwarnai dengan munculnya hadis-hadis palsu yang menyuburkan perbedaan pendapat antara faqih.
+Pada masa ini, para faqih seperti Ibnu Mas'ud mulai menggunakan nalar dalam berijtihad. Ibnu Mas'ud kala itu berada di daerah Iraq yang kebudayaannya berbeda dengan daerah Hijaz tempat Islam awalnya bermula. Umar bin Khattab pernah menggunakan pola yang di mana mementingkan kemaslahatan umat dibandingkan dengan keterikatan akan makna harfiah dari kitab suci, dan dipakai oleh para faqih termasuk Ibnu Mas'ud untuk memberi ijtihad di daerah di mana mereka berada.[21]
+
+Perkembangan di Indonesia[sunting | sunting sumber]
+Di Indonesia, Fikih, diajarkan di lembaga-lembaga pendidikan keagamaan non formal seperti Pondok Pesantren dan di lembaga pendidikan formal seperti di Madrasah Ibtidaiyah, Madrasah Tsanawiyah dan Madrasah Aliyah
+
+Objek Pembahasan[sunting | sunting sumber]
+Fikih membahas hukum-hukum syara' dari perbuatan seorang mukallaf, seperti jual beli, sewa menyewa, gadai, wakalah (perwakilan), shalat, puasa, haji, pembunuhan, dll.[23]
+Dengan demikian, objek pembahasan Fikih ada 2 macam:[24]
+
+Ibadah, yaitu perbuatan mukallaf yang berhubungan dengan Allah. Contohnya shalat, puasa, haji, dan lain sebagainya
+Mu'amalah, yaitu perbuatan mukallaf yang berhubungan dengan sesama manusia. Contohnya jual beli, sewa menyewa, pegadaian, pembunuhan, tuduhan/menuduh orang lain berzina, pencurian, wakaf, dan lain sebagainya.
+Ushul fiqh[sunting | sunting sumber]
+Artikel utama: Ushul Fikih
+Ushul fikih adalah ilmu yang mempelajari kaidah-kaidah, teori-teori dan sumber-sumber secara terperinci dalam rangka menghasilkan hukum Islam yang diambil dari sumber-sumber tersebut.[25] Mekanisme pengambilan hukum harus berdasarkan sumber-sumber hukum yang telah dipaparkan ulama. Sumber-sumber hukum terbagi menjadi 2: sumber primer dan sumber sekunder. Alquran dan sunnah merupakan sumber primer. Hukum-hukum yang diambil langsung dari Alquran dan Sunnah sudah tidak bertambah dan disebut sebagai syariah. Adapun sumber hukum sekunder yaitu ijmak, qiyas, dan sumber hukum lain. Hukum-hukum yang diambil dari sumber sekunder disebut fikih. Ijmak dan qiyas merupakan sumber hukum yang disepakati oleh empat mazhab fikih: Hanafi, Maliki, Syafi'i, dan Hambali. Sumber hukum lain seperti kebiasaan masyarakat, perkataan sahabat, dan istihsan diperselisihkan kevalidannya di antara mazhab-mazhab yang ada.
+
+Lihat pula[sunting | sunting sumber]
+Aqidah
+Jihad
+Pranala luar[sunting | sunting sumber]
+Pemikiran Hadis dan Fikih Muhammad Hasbi Ash' Shiddieqy Diarsipkan 2020-02-17 di Wayback Machine.
+Catatan kaki[sunting | sunting sumber]
+
+Daftar pustaka[sunting | sunting sumber]
+
+
+
+
+
+
+
+

@@ -1,0 +1,123 @@
+URL: https://id.wikipedia.org/wiki/Harakat
+Judul: Harakat - Wikipedia bahasa Indonesia, ensiklopedia bebas
+
+
+Harakat (bahasa Arab: حركات, translit. harakaat), atau tashkīl, adalah tanda baca atau diakritik yang ditempatkan pada huruf Arab untuk memperjelas gerakan dan pengucapan huruf tersebut. Huruf-huruf dalam abjad Arab biasa hanya melambangkan konsonan tanpa vokal, sehingga harakat digunakan sebagai penjelas pengucapannya. Harakat yang digunakan adalah fathah (dalam bahasa Arab klasik melambangkan vokal -a yang mengikuti konsonan yang ditandainya), kasrah (-i), dhammah (-u), dan sukun (menandai konsonan tanpa vokal). Selain itu terdapat harakat tanwin (untuk menandai bahwa bunyi -n ditambahkan setelah vokal sehingga menjadi -an, -in, atau -un), serta modifikasi untuk menunjukkan vokal yang dibaca panjang.
+Harakat dipakai untuk mempermudah cara membaca huruf Arab bagi orang awam, pemula atau pelajar dan biasanya dituliskan pada buku-buku pendidikan, buku anak-anak, dan kitab suci al-Quran, walaupun dalam penulisan sehari-hari tidak menggunakan harakat, karena pada umumnya orang Arab sudah paham dan mengerti akan tulisan yang mereka baca, tetapi kadang juga digunakan sebagai penekanan dari suatu kata terutama pada kata-kata yang kurang umum digunakan agar menghindari kesalahaan pembacaan.
+
+
+Perbedaan teks Arab antara yang tanpa harakat dengan yang berharakat
+
+
+
+
+Teks Arab
+
+Transliterasi
+
+
+Tanpa harakat
+
+قل أعوذ برب الناس
+
+Qul a'ūżu birabb al-nās
+
+
+Berharakat
+
+قُلْ ٲعُوذُ بِرَبِّ ٱلنَّاسِ 
+
+
+Macam harakat[sunting | sunting sumber]
+Fathah[sunting | sunting sumber]
+Artikel utama: Fathah
+Fathah (فتحة) adalah harakat yang berbentuk layaknya garis horizontal kecil (َ) yang berada di atas suatu huruf Arab yang melambangkan fonem /a/. Secara harfiah, fathah itu sendiri berarti membuka, layaknya membuka mulut saat mengucapkan fonem /a/. Ketika suatu huruf diberi harakat fathah, maka huruf tersebut akan berbunyi /-a/, contonya huruf lam (ل) diberi harakat fathah menjadi /la/ (لَ).
+
+Alif Khanjariah[sunting | sunting sumber]
+Artikel utama: Alif khanjariah
+Fathah juga ditulis layaknya garis vertikal seperti huruf alif kecil (ٰ) yang disebut dengan mad fathah atau alif khanjariah yang melambangkan fonem /a/ yang dibaca agak panjang. Sebuah huruf berharakat fathah jika diikuti oleh Alif (ا) juga melambangkan fonem /-a/ yang dibaca panjang. Contohnya pada kata /lā/ (لاَ)
+
+Kasrah[sunting | sunting sumber]
+Artikel utama: Kasrah
+Kasrah (كسرة)  adalah harakat yang berbentuk layaknya garis horizontal kecil (ِ) yang diletakkan di bawah suatu huruf arab, harakat kasrah melambangkan fonem /i/. Secara harfiah, kasrah bermakna melanggar. Ketika suatu huruf diberi harakat kasrah, maka huruf tersebut akan berbunyi /-i/, contonya huruf lam (ل) diberi harakat kasrah menjadi /li/ (لِ).
+Sebuah huruf yang berharakat kasrah jika bertemu dengan huruf ya (ي
+) maka akan melambangkan fonem /-i/ yang dibaca panjang. Contohnya pada kata /lī/ (لي)
+
+Dammah[sunting | sunting sumber]
+Artikel utama: Dammah
+Dammah (ضمة)  adalah harakat yang berbentuk layaknya huruf waw (و)  kecil yang diletakkan di atas suatu huruf arab (ُ), harakat dammah melambangkan fonem /u/. Ketika suatu huruf diberi harakat dammah, maka huruf tersebut akan berbunyi /-u/, contonya huruf lam (ل) diberi harakat dammah menjadi /lu/ (لُ).
+Sebuah huruf yang berharakat dammah jika bertemu dengan huruf waw (و
+) maka akan melambangkan fonem /-u/ yang dibaca panjang. Contohnya pada kata /lū/ (لـُو).
+
+Sukun[sunting | sunting sumber]
+Artikel utama: Sukun (harakat)
+Sukun (سکون)  adalah harakat yang berbentuk bulat layaknya huruf ha (ه)  yang ditulis di atas suatu huruf Arab. Harakat sukun melambangkan fonem konsonan atau huruf mati dari suatu huruf, misalkan pada kata mad (مـَدْ)  yang terdiri dari huruf mim yang berharakat fathah (مَ)  sehingga menghasilkan bunyi /ma/, dan diikuti dengan huruf dal yang berharakat sukun (دْ)  yang menghasilkan konsonan /d/ sehingga menjadi /mad/.
+Harakat sukun juga misa menghasilkan bunyi diftong, seperti /au/ dan /ai/, cotohnya pada kata (نـَوْمُ)  yang berbunyi /naum(u)/ yang berarti tidur, dan juga pada kata (لَـيْن)  yang berbunyi /lain/ yang berati lentur, santai atau lembut.
+
+Tasydid[sunting | sunting sumber]
+Artikel utama: Tasydid
+Tasydid (تشديد)  atau syaddah (شدة)  adalah harakat yang berbentuk layaknya huruf w atau seperti kepala dari huruf sin (س)  yang diletakkan di atas huruf arab (ّ) . Harakat tasydid melambangkan penekanan pada suatu konsonan yang dituliskan dengan simbol konsonan ganda, sebagai contoh pada kata (شـَـدَّةٌ)  yang berbunyi /syaddah/ yang terdiri dari huruf syin yang berharakat fathah (ش)  sehingga menghasilkan bunyi /sya/, diikuti dengan huruf dal yang berharakat tasydid fathah (دَّ)  yang menghasilhan bunyi /dda/, diikuti pula dengan ta marbuta (ةٌ)  di akhir kata yang menghasilkan bunyi /h/, sehingga menjadi /syaddah/.
+
+Tanwin[sunting | sunting sumber]
+Artikel utama: tanwin
+Tanwin (bahasa Arab: التنوين, "at tanwīn") adalah tanda baca/diakritik/harakat pada tulisan Arab untuk menyatakan bahwa huruf pada akhir kata tersebut diucapkan layaknya bertemu dengan huruf nun mati.
+[1]
+
+Wasal[sunting | sunting sumber]
+Gambar Alif wasal
+Artikel utama: Wasal
+Wasal (bahasa Arab: وصلة‎, washlat) adalah tanda baca atau diakritik yang dituliskan pada huruf Arab yang biasa dituliskan di atas huruf alif atau yang disebut juga dengan Alif wasal. Secara ilmu tajwid, wasal bermakna meneruskan tanpa mewaqafkan atau menghentikan bacaan.
+Harakat wasal selalu berada di permulaan kata dan tidak dilafazkan manakala berada di tengah-tengah kalimat, tetapi akan berbunyi layaknya huruf hamzah manakala dibaca di mula kalimat.
+Contoh alif wasal:
+ٱهدنا ٱلصرط
+"ihdinaṣ ṣiraat"
+Bacaan tersebut memiliki dua alif wasal, yang pertama pada lafaz ihdinaa dan as shiraat yang manakala kedua lafaz tersebut diwasalkan atau dirangkaikan dalam pembacaannya maka akan dibaca ihdinas ṣirāt dengan menghilangkan pembacaan alif wasal pada kata as ṣirāt.
+Lihat pula contoh berikut:
+نستعين  ٱهدنا ٱلصرط
+"nasta'iinuh dinas ṣirāt"
+Bacaan di atas terdiri dari kata nasta'iin, ihdinaa dan as shiraat, dengan mewasalkan lafaz ihdina dengan lafaz sebelumnya, sehingga menghasilkan lafaz nasta'iinuh dinaa, dengan mewasalkan lafaz as shiraat dengan lafaz sebelumnya, maka akan menghasilkan lafaz "nasta'iinuh dinas shiraat".
+Alif wasal lebih sering dijumpai bersamaan dengan huruf lam atau yang disebut juga dengan alif lam makrifah pada lafaz dalam bahasa Arab yang mengacu kepada kata yang bersifat isim atau nama.
+Contoh alif wasal dalam alif lam makrifah:
+
+ٱلصرط
+"as ṣirāt"
+ٱلبقرة
+"al baqarah"
+ٱلإنسان
+"al insān"
+Wakaf[sunting | sunting sumber]
+Artikel utama: Wakaf (tajwid)
+Waqaf dari sudut bahasa ialah berhenti atau menahan, manakala dari sudut istilah tajwid ialah menghentikan bacaan sejenak dengan memutuskan suara di akhir perkataan untuk bernapas dengan niat ingin menyambungkan kembali bacaan. Terdapat empat jenis waqaf yaitu:
+
+ﺗﺂﻡّ (tāmm) - waqaf sempurna - yaitu mewaqafkan atau memberhentikan pada suatu bacaan yang dibaca secara sempurna, tidak memutuskan di tengah-tengah ayat atau bacaan, dan tidak memengaruhi arti dan makna dari bacaan karena tidak memiliki kaitan dengan bacaan atau ayat yang sebelumnya maupun yang sesudahnya;
+ﻛﺎﻒ (kāf) - waqaf memadai - yaitu mewaqafkan atau memberhentikan pada suatu bacaan secara sempurna, tidak memutuskan di tengah-tengah ayat atau bacaan, tetapi ayat tersebut masih berkaitan makna dan arti dari ayat sesudahnya;
+ﺣﺴﻦ (Hasan) - waqaf baik - yaitu mewaqafkan bacaan atau ayat tanpa memengaruhi makna atau arti, tetapi bacaan tersebut masih berkaitan dengan bacaan sesudahnya;
+ﻗﺒﻴﺢ (Qabīh) - waqaf buruk - yaitu mewaqafkan atau memberhentikan bacaan secara tidak sempurna atau memberhentikan bacaan di tengah-tengah ayat, wakaf ini harus dihindari karena bacaan yang diwaqafkan masih berkaitan lafaz dan maknanya dengan bacaan yang lain.
+Tanda-tanda Wakaf[sunting | sunting sumber]
+Tanda mim (مـ) disebut juga dengan Wakaf Lazim. yaitu berhenti di akhir kalimat sempurna. Wakaf Lazim disebut juga Wakaf "Tāmm" (sempurna) karena wakaf terjadi setelah kalimat sempurna dan tidak ada kaitan lagi dengan kalimat sesudahnya. Tanda mim (م), memiliki kemiripan dengan tanda tajwid iqlab, tetapi sangat jauh berbeda dengan fungsi dan maksudnya;
+tanda ṭa' (ﻁ) adalah tanda Wakaf Mutlak dan haruslah berhenti.
+tanda jim (ﺝ) adalah Wakaf Jaiz. Lebih baik berhenti seketika di sini walaupun diperbolehkan juga untuk tidak berhenti.
+tanda ẓa (ﻇ) bermaksud lebih baik tidak berhenti;
+tanda ṣad (ﺹ) disebut juga dengan Wakaf "Murakhkhash", menunjukkan bahwa lebih baik untuk tidak berhenti namun diperbolehkan berhenti saat darurat tanpa mengubah makna. Perbedaan antara hukum tanda dzal dan shad adalah pada fungsinya, dalam kata lain lebih diperbolehkan berhenti pada wakaf shad;
+tanda ṣad-lam-ya' (ﺻﻠﮯ) adalah singkatan dari "Al-washlul-aulā" yang bermakna "wasal atau meneruskan bacaan adalah lebih baik", maka dari itu meneruskan bacaan tanpa mewakafkannya adalah lebih baik;
+tanda qaf (ﻕ) adalah singkatan dari "Qīla ‘alaihil-waqf" yang bermakna "telah dinyatakan boleh berhenti pada wakaf sebelumnya", maka dari itu lebih baik meneruskan bacaan walaupun boleh diwakafkan;
+tanda ṣad-lam (ﺼﻞ) adalah singkatan dari "Qad yūshal" yang bermakna "kadang kala boleh diwasalkan", maka dari itu lebih baik berhenti walau kadang kala boleh diwasalkan;
+tanda qīf (ﻗﻴﻒ) bermaksud berhenti! yakni lebih diutamakan untuk berhenti. Tanda tersebut biasanya muncul pada kalimat yang biasanya pembaca akan meneruskannya tanpa berhenti;
+tanda sin (س) atau tanda saktah (ﺳﮑﺘﻪ) menandakan berhenti seketika tanpa mengambil napas. Dengan kata lain, pembaca haruslah berhenti seketika (dengan panjang 1 alif/2 harokat (ketukan)) tanpa mengambil napas baru untuk meneruskan bacaan;
+tanda waqfah (ﻭﻗﻔﻪ) bermaksud sama seperti waqaf saktah (ﺳﮑﺘﻪ), tetapi harus berhenti lebih lama tanpa mengambil napas;
+tanda lā (ﻻ) bermaksud "Jangan berhenti!". Tanda ini muncul kadangkala pada penghujung maupun pertengahan ayat. Jika ia muncul di pertengahan ayat, maka tidak dibenarkan untuk berhenti dan jika berada di penghujung ayat, pembaca tersebut boleh berhenti atau tidak;
+tanda kaf (ﻙ) adalah singkatan dari "Każālik" yang bermakna "serupa". Dengan kata lain, makna dari wakaf ini serupa dengan wakaf yang sebelumnya muncul;
+tanda bertitik tiga (؞...؞) yang disebut sebagai Wakaf "Muraqabah" atau Wakaf "Ta'anuq" (Terikat). Waqaf ini akan muncul sebanyak dua kali di mana-mana saja dan cara membacanya adalah harus berhenti di salah satu tanda tersebut. Jika sudah berhenti pada tanda pertama, tidak perlu berhenti pada tanda kedua dan sebaliknya.
+Lihat pula[sunting | sunting sumber]
+Tajwid
+Huruf syamsiah dan kamariah
+Hamzah
+Alif khanjariah
+Referensi[sunting | sunting sumber]
+
+
+
+
+
+
+

@@ -1,0 +1,369 @@
+URL: https://id.wikipedia.org/wiki/Kalender_Hijriah
+Judul: Kalender Hijriah - Wikipedia bahasa Indonesia, ensiklopedia bebas
+
+Artikel ini menggunakan kata-kata yang berlebihan dan hiperbolis tanpa memberikan informasi yang jelas. Silakan buang istilah-istilah yang hiperbolis tersebut. (Pelajari cara dan kapan saatnya untuk menghapus pesan templat ini)Artikel ini membutuhkan rujukan tambahan agar kualitasnya dapat dipastikan. Mohon bantu kami mengembangkan artikel ini dengan cara menambahkan rujukan ke sumber tepercaya. Pernyataan tak bersumber bisa saja dipertentangkan dan dihapus.Cari sumber: "Kalender Hijriah" – berita · surat kabar · buku · cendekiawan · JSTOR
+
+
+Kalender Hijriah atau Kalender Islam merupakan kalender yang sistemnya dimulai sejak masa kekhalifahan Umar bin Khattab dan tahun pertamanya yaitu pada saat Nabi Islam Muhammad hijrah dari Makkah ke Madinah, yakni pada tahun 622 Masehi.[1]
+Di beberapa negara yang berpenduduk mayoritas Islam, Kalender Hijriah juga digunakan sebagai sistem penanggalan sehari-hari. Kalender Islam menggunakan peredaran bulan sebagai acuannya, sedangkan kalender biasa (Kalender Masehi) menggunakan peredaran matahari.
+
+
+Sejarah[sunting | sunting sumber]
+Penentuan dimulainya sebuah hari dan tanggal pada Kalender hijriah berbeda dengan Kalender Masehi. Pada sistem Kalender Masehi, sebuah hari dan tanggal dimulai pada pukul 00.00 dini hari waktu setempat. Namun pada sistem Kalender Hijriah, sebuah hari dan tanggal dimulai ketika terbenamnya matahari di tempat tersebut atau ketika memasuki waktu Maghrib.
+Kalender hijriah dibangun berdasarkan rata-rata siklus sinodik bulan kalender lunar (qomariyah), memiliki 12 bulan dalam setahun. Dengan menggunakan siklus sinodik bulan, bilangan hari dalam satu tahunnya adalah (12 x 29,53059 hari = 354,36708 hari).Hal inilah yang menjelaskan 1 tahun Kalender Hijriah lebih pendek 10-12 hari dibanding dengan 1 tahun Kalender Masehi.
+Faktanya, siklus sinodik bulan bervariasi. Jumlah hari dalam satu bulan dalam Kalender Hijriah bergantung pada posisi bulan, bumi dan matahari. Usia bulan yang mencapai 30 hari bersesuaian dengan terjadinya bulan baru (new moon) di titik apooge, yaitu jarak terjauh antara bulan dan bumi, dan pada saat yang bersamaan, bumi berada pada jarak terdekatnya dengan matahari (perihelion). Sementara itu, satu bulan yang berlangsung 29 hari bertepatan dengan saat terjadinya bulan baru di perige (jarak terdekat bulan dengan bumi) dengan bumi berada di titik terjauhnya dari Matahari (aphelion). Dari sini terlihat bahwa usia bulan tidak tetap melainkan berubah-ubah (29 – 30 hari) sesuai dengan kedudukan ketiga benda langit tersebut (bulan, bumi dan matahari).
+Penentuan awal bulan (new moon) ditandai dengan munculnya penampakan (visibilitas) Bulan Sabit pertama kali (hilal) setelah bulan baru (konjungsi atau ijtimak). Pada fase ini, Bulan terbenam sesaat setelah terbenamnya Matahari, sehingga posisi hilal berada di ufuk barat. Jika hilal tidak dapat terlihat pada hari ke-29, maka jumlah hari pada bulan tersebut dibulatkan menjadi 30 hari. Tidak ada aturan khusus bulan-bulan mana saja yang memiliki 29 hari, dan mana yang memiliki 30 hari. Semuanya tergantung pada penampakan hilal.
+Penetapan kalender hijriah dilakukan pada zaman Khalifah Rasyidin kedua, Umar bin Khatab, yang menetapkan bahwa tahun pertama hijriah adalah tahun di mana Muhammad bermigrasi (hijrah) dari Makkah menuju Madinah. Kalender hijriah juga terdiri dari 12 bulan, dengan jumlah hari berkisar 29-30 hari. Penetapan 12 bulan ini disesuaikan dengan teks al-Qur'an,
+
+Sesungguhnya bilangan bulan pada sisi Allah ialah dua belas bulan, dalam ketetapan Allah pada waktu Dia menciptakan langit dan bumi, di antaranya empat bulan haram. Itulah (ketetapan) agama yang lurus, maka janganlah kamu menganiaya diri kamu dalam bulan yang empat itu, dan perangilah kaum musyrikin itu semuanya sebagaimana mereka pun memerangi kamu semuanya; dan ketahuilah bahwasanya Allah beserta orang-orang yang bertakwa.— al-Quran 9:36
+Sebelumnya, orang Arab pra-Islam telah menggunakan bulan-bulan dalam kalender hijriah. Hanya saja mereka tidak menetapkannya dengan angka, melainkan dengan nama konvensional. Misalnya, kelahiran Muhammad dan Ammar bin Yasir adalah pada Tahun Gajah. Abu Musa al-Asy'ari sebagai salah satu gubernur Umar, pernah menulis surat kepada Umar di Madinah yang isinya menanyakan surat-surat dari khalifah yang tidak ada tahunnya, hanya tanggal dan bulan saja, sehingga membingungkan. Umar lalu mengumpulkan beberapa sahabat senior, diantaranya Utsman bin Affan, Ali bin Abi Thalib, Abdurrahman bin Auf, Sa’ad bin Abi Waqqas, Zubair bin Awwam, dan Thalhah bin Ubaidillah, dan mengadakan rapat syura. Diantara mereka, ada yang mengusulkan berdasarkan kelahiran Muhammad Ada juga yang mengusulkan berdasarkan pengangkatan Muhammad menjadi Rasul. Dari keseluruhan usulan, Usulan yang diterima adalah usul dari Ali bin Abi Thalib yaitu berdasarkan momentum emigrasi Muhammad dari Makkah ke Yatsrib (Madinah). Sedangkan nama-nama bulan dalam kalender hijriah ini diambil dari nama-nama bulan yang telah ada dan telah berlaku sejak lama di Jazirah Arab.[2]
+
+Nama-nama bulan[sunting | sunting sumber]
+Kalender hijriah terdiri dari 12 bulan:
+
+
+
+No
+Penanggalan Islam
+
+Latin Bahasa Arab
+
+Tulisan Bahasa Arab
+Lama Hari
+
+
+1
+
+Muharam
+
+Al-Muḥarram
+
+المحرم
+
+29/30
+
+
+2
+
+Safar
+
+Shafar
+
+صفر
+
+29/30
+
+
+3
+
+Rabiul Awal/Rabi' Awwal
+
+Rabī‘ul Awwal
+
+ربيع الأول
+
+29/30
+
+
+4
+
+Rabiul Akhir/Rabi' Thani
+
+Rabī‘ust Tsānī
+
+ربيع الثاني
+
+29/30
+
+
+5
+
+Jumadil Awal/Jamada El Oula
+
+Jumādal Ūlā
+
+جمادي الأولي
+
+29/30
+
+
+6
+
+Jumadil Akhir/Jumada El Thaniah
+
+Jumādal Ākhirah
+
+جمادي الأخرة
+
+29/30
+
+
+7
+
+Rajab
+
+Rajab
+
+رجب
+
+29/30
+
+
+8
+
+Sya'ban/Sha'ban
+
+Sya‘bān
+
+شعبان
+
+29/30
+
+
+9
+
+Ramadan
+
+Ramadlān
+
+رمضان
+
+29/30
+
+
+10
+
+Syawal/Shawwal
+
+Syawwāl
+
+شوال
+
+29/30
+
+
+11
+
+Dzulkaidah/Thoul Ki'dah
+
+Dzul Qa‘dah
+
+ذو القعدة
+
+29/30
+
+
+12
+
+Dzulhijjah/Thoul Hijjah
+
+Dzul Ḥijjah
+
+ذو الحجة
+
+29/30
+
+
+Total
+
+348/360
+
+Nama-nama hari[sunting | sunting sumber]
+Kalender hijriah terdiri dari 7 hari. Permulaan sebuah hari diawali dengan terbenamnya matahari (tibanya waktu maghrib), berbeda dengan Kalender Masehi yang mengawali harinya pada saat tengah malam. Berikut ini adalah nama-nama hari dalam hijriah:
+
+
+
+Nama Hari
+
+Latin Bahasa Arab
+
+Tulisan Bahasa Arab
+
+Artinya
+
+
+Minggu
+
+Al'ahad
+
+الأحد
+
+Pertama
+
+
+Senin
+
+Aliathnayn
+
+الإثنين
+
+Kedua
+
+
+Selasa
+
+Althulatha’
+
+الثلاثاء
+
+Ketiga
+
+
+Rabu
+
+Al'arbiea’
+
+الأربعاء
+
+Keempat
+
+
+Kamis
+
+Alkhamis
+
+الخميس
+
+Kelima
+
+
+Jumat
+
+Aj-Jumu'a
+
+الجمعة
+
+Perkumpulan
+
+
+Sabtu
+
+As-sabt
+
+السبت
+
+Istirahat
+
+
+Sejarah[sunting | sunting sumber]
+Penentuan kapan dimulainya tahun 1 Hijriah dilakukan 6 tahun setelah wafatnya Nabi Muhammad Saw, tetapi sistem yang mendasari Kalender Hijriah telah ada sejak zaman pra-Islam, dan sistem ini direvisi pada tahun ke-9 periode Madinah.
+
+Sistem kalender pra-Islam di Arab[sunting | sunting sumber]
+Sebelum datangnya Islam, di tanah Arab dikenal sistem kalender berbasis campuran antara Bulan (komariyah) maupun Matahari (syamsiyah). Peredaran bulan digunakan, dan untuk mensinkronkan dengan musim dilakukan penambahan jumlah hari (interkalasi).
+Pada waktu itu, belum dikenal penomoran tahun. Sebuah tahun dikenal dengan nama peristiwa yang cukup penting pada tahun tersebut. Misalnya, tahun di mana Nabi Muhammad Saw lahir, dikenal dengan sebutan "Tahun Gajah", karena pada waktu itu, terjadi penyerbuan Ka'bah di Mekkah oleh pasukan gajah yang dipimpin oleh Abrahah, Gubernur Yaman (salah satu provinsi Kerajaan Aksum, kini termasuk wilayah Ethiopia).
+
+Revisi penanggalan[sunting | sunting sumber]
+Pada era kenabian Muhammad Saw, sistem penanggalan pra-Islam digunakan. Pada tahun ke-9 setelah Hijrah, turun ayat 36-37 Surat At-Taubah, yang melarang menambahkan hari (interkalasi) pada sistem penanggalan.
+
+Penentuan Tahun 1 Kalender Islam[sunting | sunting sumber]
+Setelah wafatnya Nabi Muhammad Saw, diusulkan kapan dimulainya Tahun 1 Kalender Islam. Ada yang mengusulkan adalah tahun kelahiran Muhammad Saw sebagai awal patokan penanggalan Islam. Ada yang mengusulkan pula awal patokan penanggalan Islam adalah tahun wafatnya Nabi Muhammad Saw.
+Akhirnya, pada tahun 638 M (17 H), khalifah Umar bin Khatab menetapkan awal patokan penanggalan Islam adalah tahun di mana hijrahnya Nabi Muhammad Saw dari Mekkah ke Madinah. Penentuan awal patokan ini dilakukan setelah menghilangkan seluruh bulan-bulan tambahan (interkalasi) dalam periode 9 tahun. Tanggal 1 Muharram Tahun 1 Hijriah bertepatan dengan tanggal 16 Juli 622, dan tanggal ini bukan berarti tanggal hijrahnya Nabi Muhammad Saw. Peristiwa hijrahnya Nabi Muhammad Saw terjadi bulan September 622. Dokumen tertua yang menggunakan sistem Kalender Hijriah adalah papirus di Mesir pada tahun 22 H, PERF 558..
+
+Tanggal-tanggal penting[sunting | sunting sumber]
+Tanggal-tanggal penting dalam Kalender hijriah adalah:
+
+
+
+Penanggalan
+Hari
+Keterangan
+
+
+1 Muharam
+Tahun Baru hijriah
+Tahun baru umat Islam
+
+
+10 Muharam
+Hari Asyura
+
+Saat Nabi Adam diciptakan, dan saat di mana ia bertaubat
+Saat bahtera Nabi Nuh mendarat
+Saat Nabi Idris diangkat ke Surga
+Saat Nabi Ibrahim selamat dari api Namrudz
+dan banyak lagi
+
+
+12 Rabiul Awal
+Maulid Nabi Muhammad SAW (hari kelahiran Nabi Muhammad)
+
+
+27 Rajab
+Isra' Mi'raj
+
+
+
+1 Ramadan
+Puasa
+Satu bulan penuh umat Islam menjalankan Puasa pada bulan Ramadan
+
+
+17 Ramadan
+Nuzulul Qur'an
+Pertama kali Al Quran diturunkan
+
+
+10 hari ganjil terakhir Ramadan
+Lailatulqadar
+Malam penuh kemuliaan pada bulan Ramadhan
+
+
+1 Syawal
+Idulfitri
+Hari Raya Idul Fitri
+
+
+8 Zulhijah
+Hari Tarwiyah
+
+Umat Islam yang berhaji, berangkat menuju Mina
+Saat Nabi Ibrahim bermimpi menyembelih anaknya Nabi Ismail
+
+
+9 Zulhijah
+Wukuf
+Wukuf di Padang Arafah
+
+
+10 Zulhijah
+Iduladha
+Hari Raya Idul Adha
+
+
+11, 12, 13 Zulhijah
+Hari Tasyrik
+
+
+Hisab dan Rukyat[sunting | sunting sumber]
+Rukyat adalah aktivitas mengamati visibilitas hilal, yakni mengamati penampakan bulan sabit yang pertama kali tampak setelah bulan baru (ijtima). Rukyat dapat dilakukan dengan mata telanjang, atau dengan alat bantu optik seperti teleskop. Apabila hilal terlihat, maka pada petang tersebut telah memasuki tanggal 1.
+Sedangkan hisab adalah melakukan perhitungan untuk menentukan posisi bulan secara matematis dan astronomis. Hisab merupakan alat bantu untuk mengetahui kapan dan di mana hilal (bulan sabit pertama setelah bulan baru) dapat terlihat. Hisab sering kali dilakukan untuk membantu sebelum melakukan rukyat.
+Penentuan awal bulan menjadi sangat signifikan untuk bulan-bulan yang berkaitan dengan ibadah, seperti bulan Ramadan (yakni umat Islam menjalankan puasa ramadan sebulan penuh), Syawal (yakni umat Islam merayakan Hari Raya Idul Fitri), serta Dzulhijjah (di mana terdapat tanggal yang berkaitan dengan ibadah Haji dan Hari Raya Idul Adha). Penentuan kapan hilal dapat terlihat, menjadi motivasi ketertarikan umat Islam dalam astronomi. Ini menjadi salah satu pendorong mengapa Islam menjadi salah satu pengembang awal ilmu astronomi sebagai sains, lepas dari astrologi pada Abad Pertengahan.
+Sebagian umat Islam berpendapat bahwa untuk menentukan awal bulan, adalah harus dengan benar-benar melakukan pengamatan hilal secara langsung (rukyatul hilal). Sebagian yang lain berpendapat bahwa penentuan awal bulan cukup dengan melakukan hisab (perhitungan matematis), tanpa harus benar-benar mengamati hilal. Metode hisab juga memiliki berbagai kriteria penentuan, sehingga sering kali menyebabkan perbedaan penentuan awal bulan, yang berakibat adanya perbedaan hari melaksanakan ibadah seperti puasa Ramadan atau Hari Raya Idul Fitri.
+
+Rupa-rupa[sunting | sunting sumber]
+Menurut perhitungan, dalam satu siklus 30 tahun Kalender hijriah, terdapat 11 tahun kabisat dengan jumlah hari sebanyak 355 hari, dan 19 tahun dengan jumlah hari sebanyak 354 hari. Dalam jangka panjang, satu siklus ini cukup akurat hingga satu hari dalam sekitar 2500 tahun. Sedangkan dalam jangka pendek, siklus ini memiliki deviasi 1-2 hari.
+Microsoft menggunakan Algoritme Kuwait untuk mengkonversi Kalender Gregorian ke Kalender hijriah. Algoritme ini diklaim berbasis analisis statistik data historis dari Kuwait, tetapi dalam kenyataannya adalah salah satu variasi dari Kalender hijriah tabular.
+Untuk konversi secara kasar dari Kalender hijriah ke Kalender Masehi (Gregorian), kalikan tahun hijriah dengan 0,97, kemudian tambahkan dengan angka 622.
+Setiap 33 atau 34 tahun Kalender hijriah, satu tahun penuh Kalender hijriah akan terjadi dalam satu tahun Kalender Masehi. Tahun 1429 H lalu terjadi sepenuhnya pada tahun 2008 M.
+Kalender Hijriah dan Penanggalan Jawa[sunting | sunting sumber]
+Sistem Kalender Jawa berbeda dengan Kalender Hijriah meskipun keduanya memiliki kemiripan. Pada tahun 125, di Jawa diperkenalkan sistem penanggalan Kalender Saka (berbasis matahari) yang berasal dari India. Sistem penanggalan ini digunakan hingga tahun 1625 Masehi (bertepatan dengan tahun 1547 Saka). Sultan Agung mengubah sistem Kalender Jawa dengan mengadopsi Sistem Kalender Hijriah, seperti nama-nama hari dan bulan dengan berbasis lunar (komariyah), tetapi angka tahun Saka tetap diteruskan demi kesinambungan, yaitu 1547 Saka ke 1547 Jawa. Berbeda dengan Kalender Hijriah yang murni menggunakan moon visibility (visibilitas bulan) pada penentuan awal bulan, Penanggalan Jawa telah menetapkan jumlah hari dalam setiap bulannya.
+
+Lihat pula[sunting | sunting sumber]
+Hisab dan rukyat
+Islam
+Kalender
+Kalender Gregorian
+Kalender Julian
+Referensi[sunting | sunting sumber]
+
+Pranala luar[sunting | sunting sumber]
+(Indonesia) Fatwa menggunakan Kalender Islam
+(Indonesia) Situs web Rukyatul Hilal Indonesia
+(Indonesia) Tahun Berapa Anda Lahir di Kalender Hijriyah? Ini Daftar Lengkap dan Perbandingannya dengan Masehi
+
+
+
+
+
+
+
