@@ -20,7 +20,7 @@ for file_path in file_list:
     # Lakukan operasi penghapusan dan normalisasi teks di sini
     content = re.sub(r'URL:.*?Judul:.*?\n', '', content, flags=re.DOTALL)
     content = re.sub(r'\[sunting \| sunting sumber\]', '', content)
-    content = re.sub(r'\[\]', ' ', content)
+    content = re.sub(r'\[\d+\]', '', content)
     content = re.sub(r'\–', ' ', content)
     content = re.sub(r'\n', ' ', content)
     content = re.sub(r'Pemisah Isi File', '', content)
